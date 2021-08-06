@@ -1,5 +1,5 @@
 {
-  "name": "ngx-chips",
+  "name": "custom-ngx-chips",
   "version": "2.2.2",
   "description": "Tag Input component for Angular",
   "scripts": {
